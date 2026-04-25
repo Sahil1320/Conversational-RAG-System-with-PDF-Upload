@@ -1,0 +1,11 @@
+streamlit==1.55.0
+python-dotenv==1.2.2
+pypdf==6.9.2
+sentence-transformers==5.3.0
+langchain==0.2.17
+langchain-core==0.2.43
+langchain-community==0.2.19
+langchain-text-splitters==0.2.4
+langchain-groq==0.1.10
+langchain-chroma==0.2.2
+langchain_huggingface==0.0.3

@@ -91,7 +91,7 @@ LANGCHAIN_API_KEY=your_langsmith_key
 2. Open Streamlit Community Cloud.
 3. Select the repo and choose the correct entry file.
 4. Add the required secrets in the app settings.
-5. Deploy.
+5. Deploy Live Link - https://conversational-rag-system-with-pdf-upload-bge5evasyyqykgmbdkgp.streamlit.app/
 
 ## Notes
 
